@@ -20,6 +20,7 @@ Proposal management is done using GitHub pull requests, the process is described
 |----------------------------------------------|------------------------------------|--------------------|------------|
 | [1](./text/0001-tep-lifecycle.md)            | TEP Lifecycle                      | Meta               | 11.06.2022 |
 | [2](./text/0002-address.md)                  | TON Addresses                      | Core               | 07.09.2019 |
+| [3](./text/0003-wallets.md)                  | TON Wallets and Sub-Wallets        | Core               | 11.06.2026 |
 | [62](./text/0062-nft-standard.md)            | NFT Standard                       | Contract Interface | 01.02.2022 |
 | [64](./text/0064-token-data-standard.md)     | Token Data Standard                | Contract Interface | 03.02.2022 |
 | [66](./text/0066-nft-royalty-standard.md)    | NFTRoyalty Standard Extension      | Contract Interface | 12.02.2022 |
